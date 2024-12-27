@@ -7,7 +7,7 @@ This project aims to classify emails as spam or not spam using machine learning 
 <h2>How to Execute the Project</h2>
 
 1. **Clone the Repository**: Download the project files to your computer.
-     ```bash
+     
  https://github.com/Srishti-951245/-P3-Spam-Email-Classification-using-NLP-and-Machine-learning
    
 3. **Install Required Packages**: Set up the necessary libraries.
