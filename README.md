@@ -13,6 +13,7 @@ This project aims to classify emails as spam or not spam using machine learning 
 3. **Install Required Packages**: Set up the necessary libraries.
    pip install -r requirement.text
 4.  **Run the Classifier**: Use the following command to check if an email is spam or not.
+
    python spamDetector.py --email "Your email content here".
 
   Replace "Your email content here" with the actual text of the email you want to classify. For example:
